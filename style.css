@@ -1,0 +1,70 @@
+body {
+            
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            height: 100px;
+            padding:20px;
+            text-align: center;
+            
+        }
+
+        nav {background-color: #444;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0, 2);
+            
+           
+        }
+
+        .box {
+            background-color: lightskyblue;color: white;
+            margin: 10px  ;
+            padding: 10px;
+            
+        }
+
+        .red-box {
+            background-color: red;
+            
+        }
+
+        .green-box {
+            background-color: green;
+            
+        }
+
+        .blue-box {
+            background-color: blue;
+            
+        }
+		
+		
+		#rollover ul li {
+	
+}
+
+
+#rollover ul li:hover {
+	
+
+}
+		
+		
+		
